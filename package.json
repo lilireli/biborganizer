@@ -3,6 +3,7 @@
 	"displayName": "BibOrganizer",
 	"description": "Reorder bibtex file in key ascending order",
 	"version": "0.0.1",
+	"publisher": "aurelie",
 	"engines": {
 		"vscode": "^1.32.0"
 	},
@@ -32,5 +33,10 @@
 		"tslint": "^5.12.1",
 		"@types/node": "^10.12.21",
 		"@types/mocha": "^2.2.42"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lilireli/biborganizer.git"
+	},
+	"homepage": "https://github.com/lilireli/biborganizer/blob/master/README.md"
 }
